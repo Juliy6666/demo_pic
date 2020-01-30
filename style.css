@@ -1,0 +1,29 @@
+
+
+body {
+    font-family: 'Advent Pro', sans-serif;
+    
+    background-color: rgb(37, 125, 184);
+    color: rgb(135, 220, 231);
+    font-family: sans-serif;
+}
+
+.content {
+    width: 680px;
+    margin: auto;
+    text-align: center;
+}
+
+.pic-list {
+    list-style: none;
+}
+
+.button {
+    color: skyblue;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.button:hover {
+    text-decoration: none;
+}
