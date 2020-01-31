@@ -1,29 +1,58 @@
-
-
 body {
-    font-family: 'Advent Pro', sans-serif;
-    
-    background-color: rgb(37, 125, 184);
-    color: rgb(135, 220, 231);
-    font-family: sans-serif;
+    background-color: rgb(7, 204, 194);
+    font-family: 'Exo 2', sans-serif;
 }
 
-.content {
-    width: 680px;
+.container {
+    width: 980px;
     margin: auto;
+}
+
+.heading {
     text-align: center;
+    margin: 0;
+    color: rgb(124, 124, 124)
+}
+.heading1 {
+    text-align: center;
+    margin: 0;
+    color: rgb(2, 90, 117)
 }
 
-.pic-list {
-    list-style: none;
+header {
+    margin-bottom: 175px;
 }
 
-.button {
-    color: skyblue;
+header h3 {
+    font-style: normal;
+}
+
+.gallery {
+    margin-top: 50px;
+}
+
+.gallery img {
+    width: 480px;
+}
+
+.upload-button {
     text-decoration: none;
-    font-size: 22px;
+    background-color: rgb(134, 134, 134);
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
 }
 
-.button:hover {
-    text-decoration: none;
+.upload-button:hover {
+    background-color: white;
+    color: rgb(0, 95, 124);
+}
+
+.submitUp{
+    width: 80px;
+    margin-top: 30px;
+    margin-left: 130px;
 }
