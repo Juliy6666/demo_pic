@@ -1,3 +1,9 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Exo+2&display=swap" rel="stylesheet">
+</head>
+<body>
 <?php
     $fileName = $_GET["file_name"];
     $filePath = 'images/' . $fileName;
@@ -12,3 +18,5 @@
         echo 'Cannot delete file!';
     }
 ?>
+</body>
+</html>
