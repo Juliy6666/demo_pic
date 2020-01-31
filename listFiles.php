@@ -24,6 +24,7 @@
     }
     ?>
     </div>
+    <a href="index.php">Galery pic</a>
 </div>
 </body>
 </html>
