@@ -4,7 +4,7 @@
     <link href="https://fonts.googleapis.com/css?family=Exo+2&display=swap" rel="stylesheet">
 </head>
 <body>
-<div id="wrapper">
+<div class="containerFlist" id="wrapper">
     <div id="file_div">
     <?php
     $folder = "images/";

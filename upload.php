@@ -23,7 +23,9 @@
         
             <div class=submitUp>
                 <input type="submit" value="UPLOAD" class="upload-button">
+                <a href="index.php">Galery pic</a>
             </div>
+            
         </form>
     </div>
 </body>
