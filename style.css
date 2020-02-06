@@ -57,6 +57,7 @@ header h3 {
     margin-left: 130px;
 }
 .containerFlist{
+    border-radius: 4px;
     width: 980px;
     margin: auto;
     background-color: rgb(58, 132, 167);
